@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Orcamento" Class="ModelosDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=Orcamento;Integrated Security=True" SettingsObjectName="Modelos.Properties.Settings" SettingsPropertyName="OrcamentoConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Usuarios" Member="Usuarios">
+    <Type Name="Usuario">
+      <Column Name="usuarioId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="usuarioNome" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="usuarioSenha" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="usuarioNivelId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="usuarioAtivo" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="UsuarioNivel_Usuario" Member="UsuarioNivel" ThisKey="usuarioNivelId" OtherKey="usuarioNivelId" Type="UsuarioNivel" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.UsuarioNivel" Member="UsuarioNivels">
+    <Type Name="UsuarioNivel">
+      <Column Name="usuarioNivelId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="usuarioNivelNome" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="usuarioNivelAtivo" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="UsuarioNivel_Usuario" Member="Usuarios" ThisKey="usuarioNivelId" OtherKey="usuarioNivelId" Type="Usuario" />
+    </Type>
+  </Table>
+</Database>

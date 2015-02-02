@@ -1,0 +1,6 @@
+C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\Modelos\bin\Debug\Modelos.dll.config
+C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\Modelos\bin\Debug\Modelos.dll
+C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\Modelos\bin\Debug\Modelos.pdb
+C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\Modelos\obj\Debug\Modelos.dll
+C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\Modelos\obj\Debug\Modelos.pdb
