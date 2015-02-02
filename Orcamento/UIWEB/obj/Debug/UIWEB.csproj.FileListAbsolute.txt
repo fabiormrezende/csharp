@@ -1,11 +1,11 @@
-C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\UIWEB\bin\UIWEB.dll
-C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\UIWEB\bin\UIWEB.pdb
-C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\UIWEB\obj\Debug\UIWEB.csprojResolveAssemblyReference.cache
-C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\UIWEB\obj\Debug\UIWEB.dll
-C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\UIWEB\obj\Debug\UIWEB.pdb
-C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\UIWEB\bin\BL.dll
-C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\UIWEB\bin\Modelos.dll
-C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\UIWEB\bin\DAL.dll
-C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\UIWEB\bin\BL.pdb
-C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\UIWEB\bin\Modelos.pdb
-C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\UIWEB\bin\DAL.pdb
+C:\Users\fabio_000\Desktop\csharp\Orcamento\UIWEB\bin\UIWEB.dll
+C:\Users\fabio_000\Desktop\csharp\Orcamento\UIWEB\bin\UIWEB.pdb
+C:\Users\fabio_000\Desktop\csharp\Orcamento\UIWEB\bin\BL.dll
+C:\Users\fabio_000\Desktop\csharp\Orcamento\UIWEB\bin\Modelos.dll
+C:\Users\fabio_000\Desktop\csharp\Orcamento\UIWEB\bin\DAL.dll
+C:\Users\fabio_000\Desktop\csharp\Orcamento\UIWEB\bin\BL.pdb
+C:\Users\fabio_000\Desktop\csharp\Orcamento\UIWEB\bin\Modelos.pdb
+C:\Users\fabio_000\Desktop\csharp\Orcamento\UIWEB\bin\DAL.pdb
+C:\Users\fabio_000\Desktop\csharp\Orcamento\UIWEB\obj\Debug\UIWEB.dll
+C:\Users\fabio_000\Desktop\csharp\Orcamento\UIWEB\obj\Debug\UIWEB.pdb
+C:\Users\fabio_000\Desktop\csharp\Orcamento\UIWEB\obj\Debug\UIWEB.csprojResolveAssemblyReference.cache
