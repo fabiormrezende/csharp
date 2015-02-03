@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,6 +18,16 @@ namespace Orcamento.BL
         {
             UsuariosDAL usuariosDal = new UsuariosDAL();
             return usuariosDal.VerificaUsuario(login, senha);
+        }
+
+        #endregion
+
+        #region Carrega Usuarios
+
+        public IList CarregaUsuarios()
+        {
+            UsuariosDAL usuariosDal = new UsuariosDAL();
+            return usuariosDal.CarregaUsuarios();
         }
 
         #endregion

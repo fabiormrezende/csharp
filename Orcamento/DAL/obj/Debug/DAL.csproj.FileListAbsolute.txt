@@ -5,3 +5,10 @@ C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\DAL\obj\Debu
 C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\DAL\bin\Debug\Modelos.dll
 C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\DAL\bin\Debug\Modelos.pdb
 C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\fabio_000\Desktop\csharp\Orcamento\DAL\bin\Debug\DAL.dll
+C:\Users\fabio_000\Desktop\csharp\Orcamento\DAL\bin\Debug\DAL.pdb
+C:\Users\fabio_000\Desktop\csharp\Orcamento\DAL\bin\Debug\Modelos.dll
+C:\Users\fabio_000\Desktop\csharp\Orcamento\DAL\bin\Debug\Modelos.pdb
+C:\Users\fabio_000\Desktop\csharp\Orcamento\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\fabio_000\Desktop\csharp\Orcamento\DAL\obj\Debug\DAL.dll
+C:\Users\fabio_000\Desktop\csharp\Orcamento\DAL\obj\Debug\DAL.pdb

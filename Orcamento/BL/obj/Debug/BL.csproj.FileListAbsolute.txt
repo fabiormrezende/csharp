@@ -7,3 +7,12 @@ C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\BL\bin\Debug
 C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\BL\bin\Debug\DAL.pdb
 C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\BL\bin\Debug\Modelos.pdb
 C:\Users\fabio_000\documents\visual studio 2012\Projects\Orçamento\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\fabio_000\Desktop\csharp\Orcamento\BL\bin\Debug\BL.dll
+C:\Users\fabio_000\Desktop\csharp\Orcamento\BL\bin\Debug\BL.pdb
+C:\Users\fabio_000\Desktop\csharp\Orcamento\BL\bin\Debug\DAL.dll
+C:\Users\fabio_000\Desktop\csharp\Orcamento\BL\bin\Debug\Modelos.dll
+C:\Users\fabio_000\Desktop\csharp\Orcamento\BL\bin\Debug\DAL.pdb
+C:\Users\fabio_000\Desktop\csharp\Orcamento\BL\bin\Debug\Modelos.pdb
+C:\Users\fabio_000\Desktop\csharp\Orcamento\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\fabio_000\Desktop\csharp\Orcamento\BL\obj\Debug\BL.dll
+C:\Users\fabio_000\Desktop\csharp\Orcamento\BL\obj\Debug\BL.pdb

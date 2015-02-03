@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.Linq;
 using Orcamento.Modelos;
 
@@ -34,6 +36,37 @@ namespace Orcamento.DAL
             }
         }
 
+        #endregion
+
+        #region Carrega a lista de Usuarios
+
+        public IList CarregaUsuarios()
+        {
+            ModelosDataContext us = new ModelosDataContext();
+
+            try
+            {
+                var listaUsuarios = (
+                                        from usuarios in us.Usuarios
+                                        join usuariosNivel in us.UsuarioNivels on usuarios.usuarioNivelId equals usuariosNivel.usuarioNivelId
+                                        select new
+                                        {
+                                            usuarioId = usuarios.usuarioId,
+                                            usuarioNome = usuarios.usuarioNome,
+                                            usuarioSenha = usuarios.usuarioSenha,
+                                            usuarioNivel = usuariosNivel.usuarioNivelNome,
+                                            usuarioAtivo = usuarios.usuarioAtivo
+                                        }
+                           ).ToList();
+
+                return listaUsuarios;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+                throw;
+            }
+        }
         #endregion
 
     }
